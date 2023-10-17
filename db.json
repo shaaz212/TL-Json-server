@@ -1,0 +1,108 @@
+{
+  "budget": [
+    {
+      "name": "Mom",
+      "amount": "1000",
+      "id": 1
+    },
+    {
+      "name": "bus",
+      "amount": "10",
+      "id": 2
+    },
+    {
+      "name": "food",
+      "amount": "100",
+      "id": 3
+    },
+    {
+      "name": "Dad",
+      "amount": "2000",
+      "id": 4
+    },
+    {
+      "name": "bro",
+      "amount": "100",
+      "id": 5
+    },
+    {
+      "name": "shaz",
+      "amount": "100",
+      "id": 6
+    },
+    {
+      "name": "sis",
+      "amount": "10",
+      "id": 7
+    },
+    {
+      "name": "Movie",
+      "amount": "150",
+      "id": 8
+    },
+    {
+      "name": "ss",
+      "amount": "10",
+      "id": 9
+    },
+    {
+      "name": "sis",
+      "amount": "1000",
+      "id": 10
+    },
+    {
+      "name": "aju",
+      "amount": "10",
+      "id": 11
+    }
+  ],
+  "income": [
+    {
+      "name": "Mom",
+      "amount": "1000",
+      "id": 1
+    },
+    {
+      "name": "Dad",
+      "amount": "2000",
+      "id": 2
+    },
+    {
+      "name": "bro",
+      "amount": "100",
+      "id": 3
+    },
+    {
+      "name": "sis",
+      "amount": "1000",
+      "id": 4
+    },
+    {
+      "name": "aju",
+      "amount": "10",
+      "id": 5
+    }
+  ],
+  "expense": [
+    {
+      "name": "Bus",
+      "amount": "10",
+      "id": 1
+    },
+    {
+      "name": "bus",
+      "amount": "10",
+      "id": 2
+    },
+    {
+      "name": "food",
+      "amount": "100",
+      "id": 3
+    },
+    {
+      "name": "Movie",
+      "amount": "150",
+      "id": 4
+    }
+  ]
+}
